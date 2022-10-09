@@ -4,7 +4,7 @@
 
 Laravel Jaifal is a boilerplate ready for your next project. It is based on Laravel 9, Jetstream with Livewire and FilamentPHP 2.0.
 
-#[Laravel](https://laravel.com/)
+# [Laravel](https://laravel.com/)
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 - [Laravel Jetstream](https://jetstream.laravel.com/2.x/introduction.html)
